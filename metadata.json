@@ -1,0 +1,8 @@
+{
+  "name": "AI Lesson Plan Generator",
+  "description": "A specialized tool for Vietnamese English teachers to generate professional lesson plans following practicum standards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
